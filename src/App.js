@@ -38,9 +38,9 @@ function App() {
         &copy; Developed by{" "}
         <a
           className="text-blue-600"
-          href="https://in.linkedin.com/in/rahul130500"
+          href="https://in.linkedin.com/in/hvs261"
         >
-          Rahul Aggarwal
+          Harsh Vardhan Singh
         </a>
       </div>
     </div>
